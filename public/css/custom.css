@@ -1,0 +1,13 @@
+.cash-machine {
+    display: flex;
+    justify-content: center;
+    margin-top:3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sources {
+    /* display: flex; */
+    justify-content: space-evenly;
+    margin-top:3rem;
+}
